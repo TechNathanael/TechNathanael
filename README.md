@@ -14,6 +14,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![C programming](https://img.shields.io/badge/c%20programming)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C Programming](https://img.shields.io/badge/-C-333333?style=flat&logo=R&logoColor=276DC3)
